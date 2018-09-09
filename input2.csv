@@ -1,0 +1,33 @@
+RegionID,Hospital name,Street address,Suburb,Postcode,State,Local Hospital Network (LHN),Primary Health Network area (PHN),Description,Sector,Beds
+Sydney Inner City 11703,Balmain Hospital,29 Booth Street,Balmain,2041,NSW,Sydney,Central and Eastern Sydney,Metropolitan hospital,Public,50-99
+Sydney Inner City 11703,Canterbury Hospital,575 Canterbury Road,Campsie,2194,NSW,Sydney,Central and Eastern Sydney,Medium metropolitan hospital with an emergency department,Public,100-199
+Sydney Inner City 11703,Concord Hospital,Hospital Road,Concord,2139,NSW,Sydney,Central and Eastern Sydney,Major hospital with an emergency department,Public,>500
+Sydney Inner City 11703,Royal Prince Alfred Hospital,50 Missenden Road,Camperdown,2050,NSW,Sydney,Central and Eastern Sydney,Major hospital with an emergency department,Public,>500
+Sydney Inner City 11703,Royal Prince Alfred Institute of Rheumatology & Orthopaedics,57 - 59 Missenden Road,Camperdown,2050,NSW,Sydney,Central and Eastern Sydney,Specialist orthopaedic hospital,Public,<50
+Sydney Inner City 11703,Thomas Walker Hospital,Hospital Road,Concord West,2138,NSW,Sydney,Central and Eastern Sydney,Specialist psychiatric hospital,Public,<50
+Sydney Inner City 11703,Tresillian Care Centres,McKenzie Street,Belmore,2192,NSW,Sydney,Central and Eastern Sydney,Early parenting centre,Public,50-99
+Parramatta 12504,Auburn Hospital,18-20 Hargrave Road,Auburn,2144,NSW,Western Sydney,Western Sydney,Medium metropolitan hospital with an emergency department,Public,100-199
+Parramatta 12504,Blacktown Hospital,Blacktown Road,Blacktown,2148,NSW,Western Sydney,Western Sydney,Large metropolitan hospital with an emergency department,Public,200-500
+Parramatta 12504,Cumberland Hospital,1-11 Hainsworth Street,Westmead,2145,NSW,Western Sydney,Western Sydney,Specialist psychiatric hospital,Public,200-500
+Parramatta 12504,Mount Druitt Hospital,75 Railway Street,Mount Druitt,2770,NSW,Western Sydney,Western Sydney,Medium metropolitan hospital with an emergency department,Public,100-199
+Parramatta 12504,Westmead Hospital,166-174 Darcy Road,Westmead,2145,NSW,Western Sydney,Western Sydney,Major hospital with an emergency department,Public,>500
+Newcastle 11103,Ballina Hospital,78-92 Cherry Street,Ballina,2478,NSW,Northern NSW,North Coast,Small hospital with an emergency department,Public,50-99
+Newcastle 11103,Bonalbo Hospital,Clarence Way,Bonalbo,2469,NSW,Northern NSW,North Coast,Regional hospital,Public,<50
+Newcastle 11103,Byron Central Hospital,54 Ewingsdale Road,Ewingsdale,2481,NSW,Northern NSW,North Coast,Small hospital with an emergency department,Public,<50
+Newcastle 11103,Casino Hospital,Hotham Street,Casino,2470,NSW,Northern NSW,North Coast,Small hospital with an emergency department,Public,<50
+Newcastle 11103,Grafton Base Hospital,174 Arthur Street,Grafton,2460,NSW,Northern NSW,North Coast,Medium regional hospital with an emergency department,Public,50-99
+Newcastle 11103,Kyogle Multi Purpose Service,199 Summerland Way,Kyogle,2474,NSW,Northern NSW,North Coast,Regional hospital with an emergency department,Public,<50
+Newcastle 11103,Lismore Hospital,60 Uralba Street,Lismore,2480,NSW,Northern NSW,North Coast,Large regional hospital with an emergency department,Public,200-500
+Newcastle 11103,Maclean Hospital,21 Union Street,Maclean,2463,NSW,Northern NSW,North Coast,Small hospital with an emergency department,Public,<50
+Newcastle 11103,Murwillumbah Hospital,8 Ewing Street,Murwillumbah,2484,NSW,Northern NSW,North Coast,Small hospital with an emergency department,Public,50-99
+Newcastle 11103,Nimbin Multi Purpose Service,35 Cullen Street,Nimbin,2480,NSW,Northern NSW,North Coast,Regional hospital with an emergency department,Public,<50
+Newcastle 11103,Riverlands Drug and Alcohol Centre,Hunter Street,Lismore,2480,NSW,Northern NSW,North Coast,Drug and alcohol hospital,Public,<50
+Newcastle 11103,The Tweed Hospital,14 Powell Street,Tweed Heads,2485,NSW,Northern NSW,North Coast,Large metropolitan hospital with an emergency department,Public,200-500
+Newcastle 11103,Urbenville Multi Purpose Service,45 Beaury Street,Urbenville,2475,NSW,Northern NSW,North Coast,Regional hospital with an emergency department,Public,<50
+Blue Mountains 12401,Blue Mountains Hospital,Lot 3 Woodlands Road,Katoomba,2780,NSW,Nepean Blue Mountains,Nepean Blue Mountains,Small hospital with an emergency department,Public,50-99
+Blue Mountains 12401,Hawkesbury Hospital,2 Day Street,Windsor,2756,NSW,Nepean Blue Mountains,Nepean Blue Mountains,Medium metropolitan hospital with an emergency department,Public,50-99
+Blue Mountains 12401,Lithgow Hospital,2 Col Drewe Drive,Lithgow,2790,NSW,Nepean Blue Mountains,Nepean Blue Mountains,Small hospital with an emergency department,Public,50-99
+Blue Mountains 12401,Nepean Hospital,Derby Street,Kingswood,2747,NSW,Nepean Blue Mountains,Nepean Blue Mountains,Major hospital with an emergency department,Public,>500
+Blue Mountains 12401,Portland Hospital,20 Green Street,Portland,2847,NSW,Nepean Blue Mountains,Nepean Blue Mountains,Regional hospital,Public,<50
+Blue Mountains 12401,Springwood Hospital,7-9 Huntley Grange Road,Springwood,2777,NSW,Nepean Blue Mountains,Nepean Blue Mountains,Small hospital,Public,<50
+Blue Mountains 12401,Wentworth Psychiatric Services,Derby Street,Penrith,2750,NSW,Nepean Blue Mountains,Nepean Blue Mountains,Metropolitan hospital,Public,<50
