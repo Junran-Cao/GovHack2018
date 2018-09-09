@@ -1,2 +1,11 @@
 # GovHack2018
 Video pitch script, source code &amp; datasets (incl. documentation) for GovHack2018 by team HealthLink
+
+Team name: HealthLink
+
+Team members:
+Alex Pescud
+Anna Choi
+Caleb Heard
+Faraz Jafari
+Junran Cao
